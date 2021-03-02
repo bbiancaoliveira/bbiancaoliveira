@@ -1,4 +1,4 @@
-# Olá! :smiley:
+# Olá! :smile:
 
 Meu nome é Bianca Lima.
 
