@@ -1,8 +1,8 @@
-# Olá! 👋  
+# Olá! :smiley:
 
 Meu nome é Bianca Lima.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. 💻 <br />
+Sou estudante de Análise e Desenvolvimento de Sistemas. :computer: <br />
 Me identifico muito com o desenvolvimento Front-End e tenho uma bela jornada de aprendizado pela frente. 
 
 #### Em constante evolução! 🧠
